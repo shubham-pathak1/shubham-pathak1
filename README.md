@@ -10,13 +10,7 @@ A platform connecting farmers with businesses for contract-based farming. Includ
 📫 Reach Me
 
 Email: shubhamxkcd@gmail.com
-LinkedIn: 
+LinkedIn: Shubham Pathak
+
+
 I’m open to teaming up on projects that combine code and design in practical ways. Drop me a message, and let’s build something useful! 🌱
-
-
-
-
-<!---
-shubham-pathak1/shubham-pathak1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
