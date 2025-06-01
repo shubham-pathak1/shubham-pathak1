@@ -19,6 +19,6 @@ A digital bridge between farmers and businesses, enabling contract-based farming
 ## 📬 Let’s Connect
 
 - **Email:** [shubhamxkcd@gmail.com](mailto:shubhamxkcd@gmail.com)  
-- **LinkedIn:** [Shubham Pathak](https://www.linkedin.com/in/shubham-pathak)
+- **LinkedIn:** [Shubham Pathak](https://www.linkedin.com/in/shubham-pathak-05366b272/)
 
 I’m always up for collaborating on projects where good design meets smart code. If you're working on something meaningful or fun — let’s chat and build it together. 🌱
