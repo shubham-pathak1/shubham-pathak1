@@ -1,14 +1,19 @@
 # Hey, I'm Shubham 👋
 
-I’m a front-end developer who builds clean, user-friendly websites and apps. I work with HTML, CSS, Vanilla JS, React.js, Next.js, and Flask. As a Linux enthusiast, I enjoy tinkering with open-source tools. My focus is on creating things that are simple, functional, and easy to use.
+I’m a front-end developer who loves building websites and apps that are simple, functional, and easy to use. I’m passionate about Linux, always trying new distros and customizing them to make my workflow better. My focus is on creating clean, user-friendly designs that just work.
 
-## 🌟 Projects
+## 🛠️ Skills
+
+**Languages**: HTML, CSS, Vanilla JS, Python, C  
+**Frameworks**: React.js, Next.js, Flask  
+
+## 🌍 Projects
 
 **BikeVault 🏍️**  
 A website for bike enthusiasts to look up bike specs, on-road prices in their city, and nearby showroom locations. Designed to be fast and straightforward.
 
 **Krishi Sangam 🌾**  
-A platform connecting farmers with businesses for contract-based farming. Includes a dashboard, English/Gujarati language options, and transaction tracking.
+A platform connecting farmers with businesses for contract-based farming.
 
 ## 📫 Reach Me
 
