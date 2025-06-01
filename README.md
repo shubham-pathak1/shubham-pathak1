@@ -1,5 +1,5 @@
 
-👋 Hi, I’m @shubham-pathak1
+👋 Hi, I’m Shubham
 👀 I’m interested in front-end development, UI/UX, product design, Linux, and AI/ML
 🌱 I’m currently learning JavaScript and React.js
 💞️ I’m looking to collaborate on projects that blend clean design with smart code
