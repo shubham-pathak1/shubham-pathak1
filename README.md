@@ -9,8 +9,8 @@ A platform connecting farmers with businesses for contract-based farming. Includ
 
 📫 Reach Me
 
-Email: shubhamxkcd@gmail.com
-LinkedIn: Shubham Pathak
+-Email: shubhamxkcd@gmail.com
+-LinkedIn: Shubham Pathak
 
 
 I’m open to teaming up on projects that combine code and design in practical ways. Drop me a message, and let’s build something useful! 🌱
