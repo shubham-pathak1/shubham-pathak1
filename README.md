@@ -1,6 +1,6 @@
 # Hey, I’m Shubham 👋  
 
-I build clean, fast, and user-focused websites and web apps. With a passion for simplicity and functionality, I love turning ideas into intuitive digital experiences. I’m also a Linux tinkerer — always experimenting with different distros and customizing them to streamline my workflow.
+I’m a front-end developer who loves building websites and apps that are simple, functional, and easy to use. I’m also passionate about Linux, always trying new distros and customizing them to make my workflow better. My focus is on creating clean, user-friendly designs that just work.
 
 ## 🛠️ Tech Stack
 
@@ -10,10 +10,10 @@ I build clean, fast, and user-focused websites and web apps. With a passion for 
 ## 🌍 Featured Projects
 
 **🚀 BikeVault**  
-A sleek platform for motorcycle enthusiasts to explore bike specs, check on-road prices by city, and locate nearby showrooms. Built for speed and usability.
+A website for bike enthusiasts to look up bike specs, on-road prices in their city, and nearby showroom locations. Designed to be fast and straightforward.
 
 **🌾 Krishi Sangam**  
-A digital bridge between farmers and businesses, enabling contract-based farming opportunities across regions.
+A platform connecting farmers with businesses for contract-based farming.
 
 ## 📬 Let’s Connect
 
