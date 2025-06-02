@@ -1,5 +1,4 @@
 # Hey, I’m Shubham 👋  
-**Front-End Developer | Linux Enthusiast | Minimalist by Design**
 
 I build clean, fast, and user-focused websites and web apps. With a passion for simplicity and functionality, I love turning ideas into intuitive digital experiences. I’m also a Linux tinkerer — always experimenting with different distros and customizing them to streamline my workflow.
 
