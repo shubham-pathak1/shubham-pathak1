@@ -1,23 +1,35 @@
 # Hey, I’m Shubham 👋  
-
-I’m a front-end developer who loves building websites and apps that are simple, functional, and easy to use. I’m also passionate about Linux, always trying new distros and customizing them to make my workflow better. My focus is on creating clean, user-friendly designs that just work.
+I’m a Front-End Developer from Vadodara, India, passionate about building clean, fast, and user-friendly websites and apps. I focus on creating seamless, high-performance digital solutions with intuitive interfaces. I’m also a Linux enthusiast, always exploring new distros to optimize my workflow.
 
 ## 🛠️ Tech Stack
 
-**Languages:** HTML, CSS, JavaScript (Vanilla), Python, C  
-**Frameworks & Libraries:** React.js, Next.js, Flask  
+### Languages  
+HTML, CSS, Vanilla JS, Python  
+
+### Frameworks & Libraries  
+Tailwind CSS, React.js, Three.js, Flask, Next.js
+
+### Databases  
+MongoDB, MySQL, Supabase
+
+### Tools  
+Git, Figma  
+
+### Systems  
+Linux  
 
 ## 🌍 Featured Projects
 
-**🚀 BikeVault**  
-A website for bike enthusiasts to look up bike specs, on-road prices in their city, and nearby showroom locations. Designed to be fast and straightforward.
+### 🚗 Throttle Talks  
+A mobile app for car enthusiasts with real-time discussion forums, vehicle spec sharing, and user profiles. Built with Flutter, Dart, Firebase, and Provider for a seamless community experience.
 
-**🌾 Krishi Sangam**  
-A platform connecting farmers with businesses for contract-based farming.
+### 🌾 Krishi Sangam  
+A web platform connecting farmers and buyers for contract-based farming, featuring real-time crop pricing, secure payments, and an intuitive dashboard. Built using HTML, CSS, JavaScript, and Framer.js.
 
-## 📬 Let’s Connect
+## 📬 Let’s Connect  
 
-- **Email:** [shubhamxkcd@gmail.com](mailto:shubhamxkcd@gmail.com)  
-- **LinkedIn:** [Shubham Pathak](https://www.linkedin.com/in/shubham-pathak-05366b272/)
+- **Email**: shubhamxkcd@gmail.com  
+- **LinkedIn**: Shubham Pathak  
+- **Portfolio**: [shubham-pathak.vercel.app](http://shubham-pathak.vercel.app)  
 
-I’m always up for collaborating on projects where good design meets smart code. If you're working on something meaningful or fun — let’s chat and build it together. 🌱
+I’m always excited to collaborate on projects where good design meets smart code. If you’re working on something impactful or interesting, let’s chat and build it together! 🌱
