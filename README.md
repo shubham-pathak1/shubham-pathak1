@@ -29,7 +29,7 @@ A web platform connecting farmers and buyers for contract-based farming, featuri
 ## 📬 Let’s Connect  
 
 - **Email**: shubhamxkcd@gmail.com  
-**LinkedIn**: [Shubham Pathak](https://www.linkedin.com/in/shubham-pathak-05366b272/) 
+- **LinkedIn**: [Shubham Pathak](https://www.linkedin.com/in/shubham-pathak-05366b272/) 
 - **Portfolio**: [shubham-pathak.vercel.app](http://shubham-pathak.vercel.app)  
 
 I’m always excited to collaborate on projects where good design meets smart code. If you’re working on something impactful or interesting, let’s chat and build it together! 🌱
