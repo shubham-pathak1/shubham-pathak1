@@ -1,35 +1,24 @@
-# Hey, I’m Shubham 👋  
-I’m a Front-End Developer from Vadodara, India, passionate about building clean, fast, and user-friendly websites and apps. I focus on creating seamless, high-performance digital solutions with intuitive interfaces. I’m also a Linux enthusiast, always exploring new distros to optimize my workflow.
+# Shubham Pathak
 
-## 🛠️ Tech Stack
+Front-end developer in Vadodara. I build interfaces that work.
 
-### Languages  
-HTML, CSS, Vanilla JS, Python  
+## What I Use
 
-### Frameworks & Libraries  
-Tailwind CSS, React.js, Three.js, Flask, Next.js
+**Core:** HTML, CSS, JavaScript, Python  
+**Frontend:** React, Next.js, Tailwind, Three.js  
+**Backend:** Flask, MongoDB, MySQL, Supabase  
+**Other:** Git, Figma, Linux (distro-hopping is a hobby)
 
-### Databases  
-MongoDB, MySQL, Supabase
+## Things I've Built
 
-### Tools  
-Git, Figma  
+**Throttle Talks** — Mobile community for car people. Forums, specs, profiles. Flutter + Firebase.
 
-### Systems  
-Linux  
+**Krishi Gangam** — Farmers meet buyers, negotiate contracts, get real crop prices. HTML/CSS/JS with Framer.
 
-## 🌍 Featured Projects
+## Contact
 
-### 🚗 Throttle Talks  
-A mobile app for car enthusiasts with real-time discussion forums, vehicle spec sharing, and user profiles. Built with Flutter, Dart, Firebase, and Provider for a seamless community experience.
+**Email:** shubhamxkcd@gmail.com  
+**LinkedIn:** [linkedin.com/in/shubham-pathak-05366b272](https://www.linkedin.com/in/shubham-pathak-05366b272/)  
+**Portfolio:** [shubham-pathak.vercel.app](http://shubham-pathak.vercel.app)
 
-### 🌾 Krishi Sangam  
-A web platform connecting farmers and buyers for contract-based farming, featuring real-time crop pricing, secure payments, and an intuitive dashboard. Built using HTML, CSS, JavaScript, and Framer.js.
-
-## 📬 Let’s Connect  
-
-- **Email**: shubhamxkcd@gmail.com  
-- **LinkedIn**: [Shubham Pathak](https://www.linkedin.com/in/shubham-pathak-05366b272/) 
-- **Portfolio**: [shubham-pathak.vercel.app](http://shubham-pathak.vercel.app)  
-
-I’m always excited to collaborate on projects where good design meets smart code. If you’re working on something impactful or interesting, let’s chat and build it together! 🌱
+Open to working on projects that solve actual problems.
