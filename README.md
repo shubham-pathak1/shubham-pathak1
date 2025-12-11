@@ -1,12 +1,13 @@
 # Shubham Pathak
 
-Front-end developer in Vadodara. I build interfaces that work.
+Front-end developer from Vadodara. I build interfaces that work.
 
 ## What I Use
 
 **Core:** HTML, CSS, JavaScript, Python  
-**Frontend:** React, Next.js, Tailwind, Three.js  
-**Backend:** Flask, MongoDB, MySQL, Supabase  
+**Frontend:** React.js, Three.js, Flask, Electron, Tauri  
+**Backend:** Flask, Bun
+**DB:** SQLite, MongoDB, Flask
 **Other:** Git, Figma, Linux (distro-hopping is a hobby)
 
 ## Things I've Built
