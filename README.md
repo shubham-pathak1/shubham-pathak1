@@ -1,6 +1,6 @@
 # Shubham Pathak
 
-Front-end developer from Vadodara. I build interfaces that work.
+Front-End Developer, Linux Enthusiast
 
 ## What I Use
 
@@ -12,9 +12,9 @@ Front-end developer from Vadodara. I build interfaces that work.
 
 ## Things I've Built
 
-**Throttle Talks** — Mobile community for car people. Forums, specs, profiles. Flutter + Firebase.
+**Throttle Talks** — Mobile community for automobile enthusiasts. Forums, specs, profiles.
 
-**Krishi Gangam** — Farmers meet buyers, negotiate contracts, get real crop prices. HTML/CSS/JS with Framer.
+**Krishi Gangam** — Farmers meet buyers, negotiate contracts, get real crop prices. 
 
 ## Contact
 
