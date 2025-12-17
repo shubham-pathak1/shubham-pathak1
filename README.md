@@ -54,5 +54,3 @@ Agricultural marketplace connecting farmers directly with buyers for contract ne
 ---
 
 💡 *Open to working on projects that solve actual problems.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
