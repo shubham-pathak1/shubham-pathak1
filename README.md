@@ -27,8 +27,6 @@
 
 Building high-performance web applications and exploring systems-level programming. Currently working on bridging web technologies with native desktop experiences. When I'm not coding, I'm distro-hopping or fine-tuning my development workflow.
 
-![Skills](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
 ## 🛠️ Tech Stack
 
 ### Core
@@ -98,4 +96,4 @@ Building high-performance web applications and exploring systems-level programmi
 
 Currently open to freelance projects, open source collaborations, and technical discussions. Let's build something great! 🚀
 
-![Footer](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="500">
