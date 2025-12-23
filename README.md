@@ -16,6 +16,8 @@ Front-End Developer, Linux Enthusiast
 
 ## Things I've Built
 
+**Bastion** — Secure system tool built with Rust and Tauri. Focuses on memory safety and low-level performance.
+
 **Throttle Talks** — Mobile community for automobile enthusiasts. Forums, specs, profiles.
 
 **Krishi Gangam** — Farmers meet buyers, negotiate contracts, get real crop prices. 
