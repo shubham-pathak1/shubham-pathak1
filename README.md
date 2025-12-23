@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Header Banner" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlxYWF6YmpxZzR6YmpxZzR6YmpxZzR6YmpxZzR6YmpxZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjP30GfG6B852/giphy.gif" width="400" alt="Dev Reaction GIF" />
 </p>
 
 <div align="center">
 
-# `S H U B H A M  P A T H A K`
+# `SHUBHAM PATHAK`
 ### **Front-End Engineer • Systems Exploration • Open Source**
 
 [**Portfolio**](https://shubham-pathak.vercel.app) • [**LinkedIn**](https://linkedin.com/in/shubham-pathak-05366b272) • [**Email**](mailto:shubhamxkcd@gmail.com)
@@ -18,73 +18,80 @@
 
 ---
 
-## `02 // TECHNICAL_DASHBOARD`
-
-<br />
+## `02 // TECHNICAL_STACK`
 
 <div align="center">
 
-### **LANGUAGES & CORE**
-<code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" /></code>
-<code><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28" /></code>
-<code><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" /></code>
-<code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" /></code>
-<code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" /></code>
+<br />
+
+**CORE & LANGUAGES**
+<br />
+<img src="assets/icons/html.png" height="32" />
+<img src="assets/icons/css.jpg" height="32" />
+<img src="assets/icons/js.png" height="32" />
+<img src="assets/icons/ts.png" height="32" />
+<img src="assets/icons/python.jpg" height="32" />
 
 <br />
 
-### **FRONTEND & SYSTEMS-BRIDGE**
-<code><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="28" /></code>
-<code><img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" height="28" /></code>
-<code><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" height="28" /></code>
-<code><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" height="28" /></code>
-<code><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="28" /></code>
+**FRONTEND & SYSTEMS**
+<br />
+<img src="assets/icons/react.png" height="32" />
+<img src="assets/icons/tauri.png" height="32" />
+<img src="assets/icons/electron.png" height="32" />
+<img src="assets/icons/threejs.png" height="32" />
+<img src="assets/icons/tailwind.png" height="32" />
 
 <br />
 
-### **RUNTIMES & STORAGE**
-<code><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" /></code>
-<code><img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" height="28" /></code>
-<code><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="28" /></code>
-<code><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28" /></code>
-<code><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="28" /></code>
+**RUNTIMES & STORAGE**
+<br />
+<img src="assets/icons/nodejs.png" height="32" />
+<img src="assets/icons/bun.png" height="32" />
+<img src="assets/icons/flask.png" height="32" />
+<img src="assets/icons/mongodb.png" height="32" />
+<img src="assets/icons/sqlite.jpg" height="32" />
 
 <br />
 
-### **ENVIRONMENT & TOOLING**
-<code><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28" /></code>
-<code><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" /></code>
-<code><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="28" /></code>
-<code><img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" height="28" /></code>
+**TOOLING**
+<br />
+<img src="assets/icons/linux.jpg" height="32" />
+<img src="assets/icons/git.png" height="32" />
+<img src="assets/icons/figma.png" height="32" />
 
 </div>
 
 ---
 
-## `03 // FEATURED_SHIPMENTS`
+## `03 // PROJECTS`
 
 <br />
 
-<div align="center">
-
-| | |
-| :--- | :--- |
-| <img src="assets/projects/bastion_logo.png" width="100" /> <br /> **BASTION** <br /> `Rust` • `Tauri` • `Security` | <img src="assets/projects/throttle_talks_logo.png" width="100" /> <br /> **THROTTLE TALKS** <br /> `React` • `Python` • `Automotive` |
-| A secure system tool focused on memory safety and low-level performance. | A forum for automotive enthusiasts with real-time syncing and vehicle data tracking. |
-| [**Repo**](https://github.com/shubham-pathak1/bastion) | [**Live**](https://shubham-pathak.vercel.app) |
+### **BASTION**
+<img src="assets/projects/bastion_logo.png" width="80" />
+> A secure system tool focused on memory safety and low-level performance.
+> **Stack:** `Rust` • `Tauri` • `Security`
+> [**View Repository**](https://github.com/shubham-pathak1/bastion)
 
 <br />
 
-<img src="assets/projects/krishi_sangam_logo.png" width="100" /> <br /> 
-**KRISHI SANGAM** <br />
-`React` • `Bun` • `Agritech` <br />
-An agricultural marketplace connecting farmers with buyers. Implements real-time pricing and pricing workflows.
+### **THROTTLE TALKS**
+<img src="assets/projects/throttle_talks_logo.png" width="80" />
+> A forum for automotive enthusiasts with real-time syncing and vehicle data tracking.
+> **Stack:** `React` • `Python` • `Automotive`
+> [**Live Demo**](https://shubham-pathak.vercel.app)
 
-</div>
+<br />
+
+### **KRISHI SANGAM**
+<img src="assets/projects/krishi_sangam_logo.png" width="80" />
+> An agricultural marketplace connecting farmers with buyers through direct contract workflows.
+> **Stack:** `React` • `Bun` • `Agritech`
 
 ---
 
-## `04 // NETWORK_TELEMETRY`
+## `04 // TELEMETRY`
 
 <br />
 
@@ -101,10 +108,10 @@ An agricultural marketplace connecting farmers with buyers. Implements real-time
 
 <div align="center">
 
-**`L E T ' S  B U I L D  T H E  F U T U R E`**
+**`L E T ' S  B U I L D`**
 
 <br />
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="200" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="150" />
 
 </div>
