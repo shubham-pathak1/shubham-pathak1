@@ -1,10 +1,12 @@
-![Banner](https://madewith.mu/assets/mu.gif)
+![Banner](https://private-user-images.githubusercontent.com/74038190/238200121-6357eb37-3a0e-4efe-b015-ce8b14e910d6.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY0OTEzMzIsIm5iZiI6MTc2NjQ5MTAzMiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDAxMjEtNjM1N2ViMzctM2EwZS00ZWZlLWIwMTUtY2U4YjE0ZTkxMGQ2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjIzVDExNTcxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE2MzdjMWIyYzA3ODZiMTEyYWNkMzYzZmRiMWFiNTI3NjY4OGY5M2M1YTQ5NWQwMjIxZWE5M2VmMTQ2YTk3NDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GG1PX4QcPoXo7BxTQFyQWj5vcvwYfQpxHSz_C3opQdk)
 
 # Hi, I'm Shubham Pathak 👋
 
 **Front-End Developer | Linux Enthusiast 🐧**
 
 I'm passionate about building intuitive, user-focused web apps and diving deep into open-source tools. Distro-hopping is my guilty pleasure!
+
+![Skills](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)
 
 ## 🛠️ Tech Stack
 
