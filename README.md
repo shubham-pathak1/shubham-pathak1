@@ -6,11 +6,11 @@ Front-End Developer, Linux Enthusiast
 
 **Core:** HTML, CSS, JavaScript, Python  
 
-**Frontend:** React.js, Three.js, Flask, Electron, Tauri  
+**Frontend:** React.js, Three.js, Electron, Tauri  
 
 **Backend:** Flask, Bun
 
-**DB:** SQLite, MongoDB, Flask
+**DB:** SQLite, MongoDB
 
 **Other:** Git, Figma, Linux (distro-hopping is a hobby)
 
