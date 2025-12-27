@@ -12,7 +12,7 @@ Front-End Developer, Linux Enthusiast
 
 **DB:** SQLite, MongoDB
 
-**Other:** Git, Figma, Linux (distro-hopping is a hobby)
+**Other:** Git, Jira, Figma, Linux (distro-hopping is a hobby)
 
 ## Things I've Built
 
