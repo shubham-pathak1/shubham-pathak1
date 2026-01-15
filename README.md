@@ -1,12 +1,12 @@
 # Shubham Pathak
 
-Front-End Developer, Linux Enthusiast
+Full Stack Developer, Linux Enthusiast
 
 ## What I Use
 
-**Core:** HTML, CSS, JavaScript, Python  
+**Core:** HTML, CSS, JavaScript, Python, Rust
 
-**Frontend:** React.js, Three.js, Electron, Tauri  
+**Frontend:** React.js, Three.js, Electron, Tauri 
 
 **Backend:** Flask, Bun
 
