@@ -2,25 +2,21 @@
 
 Full Stack Developer, Linux Enthusiast
 
-## What I Use
+## Tech Stack
 
-**Core:** HTML, CSS, JavaScript, Python, Rust
+**Core:** React, Next, Rust, Tauri, Electron, React Native with Expo
 
-**Frontend:** React.js, Three.js, Electron, Tauri 
+**DB:** SQLite, MongoDB, PostgreSQL
 
-**Backend:** Flask, Bun
-
-**DB:** SQLite, MongoDB
-
-**Other:** Git, Jira, Figma, Linux (distro-hopping is a hobby)
+**Tools:** Git, PrismaDB, Jira, Figma, Linux (distro-hopping is a hobby)
 
 ## Things I've Built
 
-**Bastion** — Secure system tool built with Rust and Tauri. Focuses on memory safety and low-level performance.
+**Bastion** — A tauri(rust) based desktop application, which helps in blocking websites and desktop apps. 
 
-**Throttle Talks** — Mobile community for automobile enthusiasts. Forums, specs, profiles.
+**Throttle Talks** — A next.js based web platform for automobile enthusiasts. (Posts, Vehicle Mods, Polls, Meetups, Discussions, etc.)
 
-**Krishi Gangam** — Farmers meet buyers, negotiate contracts, get real crop prices. 
+**Ciel** — An all in one tauri(rust) based download manager. (Supports HTTP, Torrent and even YT downloads(via yt-dlp and ffmpeg integration as rust sidecars).
 
 ## Contact
 
