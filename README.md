@@ -4,9 +4,9 @@ Full Stack Developer, Linux Enthusiast
 
 ## Tech Stack
 
-**Core:** React, Next, Rust, Tauri, Electron, React Native with Expo
+**Core:** React, Next, Rust, Tauri, Electron
 
-**DB:** SQLite, MongoDB, PostgreSQL
+**DB:** SQLite, MongoDB, PostgreSQL, Firebase
 
 **Tools:** Git, PrismaDB, Jira, Figma, Linux (distro-hopping is a hobby)
 
