@@ -16,7 +16,7 @@ Full Stack Developer, Linux Enthusiast
 
 **Throttle Talks** — A next.js based web platform for automobile enthusiasts. (Posts, Vehicle Mods, Polls, Meetups, Discussions, etc.)
 
-**Ciel** — An all in one tauri(rust) based download manager. (Supports HTTP, Torrent and even YT downloads(via yt-dlp and ffmpeg integration as rust sidecars).
+**Ciel** — An all in one tauri(rust) based download manager. (Supports HTTP, Torrent downloads).
 
 ## Contact
 
