@@ -1,6 +1,4 @@
-# Shubham Pathak
-
-Full Stack Developer, Linux Enthusiast
+# Shubham Pathak (Full Stack Dev)
 
 ## Tech Stack
 
@@ -12,13 +10,13 @@ Full Stack Developer, Linux Enthusiast
 
 ## Things I've Built
 
-**Shonen** — An e-commerce platform with admin, seller and consumer modules. (mern stack)
+**Shonen**: An e-commerce platform with admin, seller and consumer modules. (mern stack)
 
-**Ciel** — A tauri(rust) based download manager. (Supports HTTP, Torrent downloads).
+**Ciel**: A tauri(rust) based download manager. (Supports HTTP, Torrent downloads).
 
-**Zeno** —  Fast LAN file transfer ecosystem built in Go and Kotlin. Desktop tray app, Android app, web ui as well.
+**Zeno**:  Fast LAN file transfer ecosystem built in Go and Kotlin. Desktop tray app, Android app, web ui as well.
 
-**Bastion** — A tauri(rust) based desktop application, which helps in blocking websites and desktop apps. 
+**Orca**: A lightweight performant local music player, made in rust and slint.
 
 ## Contact
 
