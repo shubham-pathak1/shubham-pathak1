@@ -24,6 +24,6 @@
 
 **LinkedIn:** [linkedin.com/in/shubham-pathak-05366b272](https://www.linkedin.com/in/shubham-pathak-05366b272/)  
 
-**Portfolio:** [shubham-pathak.vercel.app](http://shubhampathak.vercel.app)
+**Portfolio:** [shubhampathak.vercel.app](http://shubhampathak.vercel.app)
 
 Open to working on projects that solve actual problems.
