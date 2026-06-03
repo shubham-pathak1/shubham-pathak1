@@ -1,4 +1,4 @@
-# i'm shubham pathak a full stack dev, based in vadodara, gujarat(india). my work mainly includes making stuff for the web and systems. i'm also into interaction design!
+## i'm shubham pathak a full stack dev, based in vadodara, gujarat(india). my work mainly includes making stuff for the web and systems. i'm also into interaction design!
 
 ## projects i've built/building:
 
