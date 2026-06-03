@@ -1,29 +1,21 @@
-# Shubham Pathak (Full Stack Dev)
+# i'm shubham pathak a full stack dev, based in vadodara, gujarat(india). my work mainly includes making stuff for the web and systems. i'm also into interaction design!
 
-## Tech Stack
+## projects i've built/building:
 
-**Core:** React, Next, Rust, Tauri, Electron
+**shonen**: a e-commerce web application, with three core modules(user, admin, seller), made it for learning mern.
 
-**DB:** SQLite, MongoDB, PostgreSQL, Firebase
+**ciel**: a tauri(rust) based download manager. (supports both http and torrent based downloads) 
 
-**Tools:** Git, PrismaDB, Jira, Figma, Linux (distro-hopping is a hobby)
+**zeno**:  fast LAN file transfer ecosystem built in go and kotlin. has desktop app, android app, and a web app as well!! (curently in dev)
 
-## Things I've Built
+**orca**: a local music player, made with with tauri, made using rust and svelte, has some basic feats, like adding lib, creating and managing playlists, automatic lyrics fetching from lrclib, and a good ui without being too heavy on the resources. (still in dev though)
 
-**Shonen**: An e-commerce platform with admin, seller and consumer modules. (mern stack)
+## contact me!!
 
-**Ciel**: A tauri(rust) based download manager. (Supports HTTP, Torrent downloads).
+**email:** shubhamxkcd@gmail.com  
 
-**Zeno**:  Fast LAN file transfer ecosystem built in Go and Kotlin. Desktop tray app, Android app, web ui as well.
+**linkedIn:** [linkedin.com/in/shubham-pathak-05366b272](https://www.linkedin.com/in/shubham-pathak-05366b272/)  
 
-**Orca**: A lightweight performant local music player, made in rust and slint.
+**portfolio:** [shubhampathak.vercel.app](http://shubhampathak.vercel.app)
 
-## Contact
-
-**Email:** shubhamxkcd@gmail.com  
-
-**LinkedIn:** [linkedin.com/in/shubham-pathak-05366b272](https://www.linkedin.com/in/shubham-pathak-05366b272/)  
-
-**Portfolio:** [shubhampathak.vercel.app](http://shubhampathak.vercel.app)
-
-Open to working on projects that solve actual problems.
+open to working on projects that solve actual problems. (web or systems)
