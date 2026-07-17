@@ -1,8 +1,6 @@
 ## projects i'm currently building:
 
-**ciel**: a tauri(rust) based download manager. (supports both http and torrent based downloads) 
-
-**orca**: a local music player, made with with tauri, made using rust and svelte, has some basic feats, like adding lib, creating and managing playlists, automatic lyrics fetching from lrclib, and a good ui without being too heavy on the resources, v0.1.0 alpha released.
+**orca**: a local music player, made with with tauri, made using rust and svelte, has some basic feats, like adding lib, creating and managing playlists, automatic lyrics fetching from lrclib, and a good ui without being too heavy on the resources.
 
 ## contact me!!
 
